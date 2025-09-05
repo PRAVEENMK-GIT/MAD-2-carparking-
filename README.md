@@ -6,7 +6,7 @@ This project is a Car Parking Management System designed to streamline the proce
 - User authentication and management
 - Parking spot booking and history tracking
 - Automated monthly activity reports (email and export)
-- Google Chat reminders for daily parking
+- Chat reminders for daily parking
 - Admin dashboard for managing lots and users
 
 ## Structure
@@ -15,3 +15,4 @@ This project is a Car Parking Management System designed to streamline the proce
 
 ## Getting Started
 See backend and frontend folders for setup instructions. 
+
