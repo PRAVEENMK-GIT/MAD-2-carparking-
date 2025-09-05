@@ -1,4 +1,3 @@
-# carparking-mad2-
 # Car Parking Management System
 
 This project is a Car Parking Management System designed to streamline the process of booking, tracking, and reporting parking activities. It features a backend built with Flask, Celery for background tasks, and a frontend built with modern JavaScript frameworks. Key features include:
@@ -15,4 +14,5 @@ This project is a Car Parking Management System designed to streamline the proce
 
 ## Getting Started
 See backend and frontend folders for setup instructions. 
+
 
